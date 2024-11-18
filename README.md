@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Android And flutter
 - 💬 Ping me about **android**,**flutter**,**java**,**BLE** development
 - 📫 Reach me on:
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]((https://www.linkedin.com/in/raj-vaghasiya-742801210/))
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raj-vaghasiya-742801210/)
 [<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rajvaghsiya093@gmail.com)
-[<img src="https://img.shields.io/badge/-Stack%20overflow-A26521321?style=for-the-badge&logo=stackoverflow&logoColor=white" />]((https://stackoverflow.com/users/28352760/raj-vaghasiya))
+[<img src="https://img.shields.io/badge/-Stack%20overflow-A26521321?style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/28352760/raj-vaghasiya)
 
 ## 👯 Looking to collaborate?
 I'm always excited about new opportunities and interesting projects. If you're working on something cool and think I can contribute, feel free to reach out!
